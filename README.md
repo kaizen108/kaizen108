@@ -2,15 +2,21 @@
   I'm Senior Full Stack & AI Engineer
 </h1>
 
-```ruby
-role: Full Stack & AI Developer
+```yaml
+role: Full Stack & AI Engineer
 
-skills:
-  Frontend: React.js, Next.js, TypeScript, Tailwind CSS
-  Backend: Node.js, Express.js, NestJS, GraphQL, Python, PHP
-  Database: PostgreSQL, MongoDB, Firebase
-  DevOps: Docker, AWS, Vercel
-  AI: OpenAI API, Gemini API, FastAPI, Rust, C++
+specialties:
+  Full Stack:
+    Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+    Backend: Node.js, Express.js, NestJS, GraphQL, Python, PHP
+    Database: PostgreSQL, MongoDB, Firebase
+    DevOps: Docker, AWS, Vercel, CI/CD
+
+  AI Engineering:
+    Languages: Python, Rust
+    LLMs & APIs: OpenAI API, Gemini API
+    Frameworks: FastAPI, LangChain
+    Vector Databases: Pinecone, ChromaDB
 ```
 <table align="center">
   <tr>
