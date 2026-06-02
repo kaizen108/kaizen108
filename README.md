@@ -2,17 +2,13 @@
   I'm Senior Full Stack & AI Engineer
 </h1>
 
-<!--
-**kaizen108/kaizen108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ruby
+role: Full Stack & AI Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+skills:
+  Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+  Backend: Node.js, Express.js, NestJS, GraphQL, Python, PHP
+  Database: PostgreSQL, MongoDB, Firebase
+  DevOps: Docker, AWS, Vercel
+  AI: OpenAI API, Gemini API, FastAPI, Rust, C++
+```
