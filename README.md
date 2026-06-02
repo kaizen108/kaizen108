@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  # I'm Senior Full Stack & AI Engineer
+</p>
 
 <!--
 **kaizen108/kaizen108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
