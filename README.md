@@ -21,8 +21,8 @@ skills:
     </td>
     <td align="center" width="90">
       <a href="https://skillicons.dev/icons?i=solidity" target="_blank">
-        <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity">
-      </a><br>Solidity
+       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="45" height="45" />
+      </a><br>C++
     </td>
     <td align="center" width="90">
       <a href="https://skillicons.dev/icons?i=rust" target="_blank">
@@ -40,10 +40,10 @@ skills:
       </a><br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum"><br>Ethereum
+     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" /><br>AWS
     </td>
     <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" alt="Solana"><br>Solana
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="48" height="48" /><br>RestAPI
     </td>
     <td align="center" width="90">
       <a href="https://techstack-generator.vercel.app/python-icon.svg" target="_blank">
