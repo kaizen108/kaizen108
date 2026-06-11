@@ -2,7 +2,7 @@
   I'm Senior Full Stack & AI Engineer
 </h1>
 
-```
+```yaml
 role: Full Stack & AI Engineer
 
 specialties:
