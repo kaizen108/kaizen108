@@ -2,7 +2,7 @@
   I'm Senior Full Stack & AI Engineer
 </h1>
 
-```ruby
+
 role: Full Stack & AI Engineer
 
 specialties:
@@ -17,7 +17,7 @@ specialties:
     LLMs & APIs: OpenAI API, Gemini API
     Frameworks: FastAPI, LangChain
     Vector Databases: Pinecone, ChromaDB
-```
+
 <table align="center">
   <tr>
     <td align="center" width="90">
