@@ -13,7 +13,7 @@ specialties:
     DevOps: Docker, AWS, Vercel, CI/CD
 
   AI Engineering:
-    Languages: Python, Rust
+    Languages: Python, Rust, go
     LLMs & APIs: OpenAI API, Gemini API
     Frameworks: FastAPI, LangChain
     Vector Databases: Pinecone, ChromaDB
