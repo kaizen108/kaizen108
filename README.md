@@ -33,6 +33,9 @@ specialties:
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"><br>Next.js
     </td>
     <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/laravel-icon.svg" alt="React" width="55" height="55"><br>React
+    </td>
+    <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55"><br>Python
     </td>
     <td align="center" width="90">
