@@ -7,8 +7,8 @@ role: Full Stack & AI Engineer
 
 specialties:
   Full Stack:
-    Frontend: React.js, Next.js, Laravel, TypeScript, Tailwind CSS
-    Backend: Node.js, Express.js, NestJS, GraphQL, Python, PHP , Java
+    Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+    Backend: Node.js, Express.js, Laravel, NestJS, GraphQL, Python, PHP , Java
     Database: PostgreSQL, MongoDB, Firebase
     DevOps: Docker, AWS, Vercel, CI/CD
 
