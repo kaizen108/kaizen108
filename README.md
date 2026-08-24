@@ -13,7 +13,7 @@ specialties:
     DevOps: Docker, AWS, Kubernetes, Vercel, CI/CD ,Terraform
 
   AI Engineering:
-    Languages:JavaScript, Java, Python, PHP, Rust, Golang, Go , .NET
+    Languages: JavaScript, Java, Python, PHP, Rust, Golang, Go , .NET
     LLMs & APIs: OpenAI API, Gemini API
     Frameworks: FastAPI, LangChain
     Vector Databases: Pinecone, ChromaDB
