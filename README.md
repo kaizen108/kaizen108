@@ -7,13 +7,13 @@ role: Full Stack & AI Engineer
 
 specialties:
   Full Stack:
-    Frontend: React.js, Next.js, TypeScript, Tailwind CSS
-    Backend: Node.js, Express.js, Laravel, NestJS, GraphQL, Python, PHP , Java
-    Database: PostgreSQL, MongoDB, Firebase
-    DevOps: Docker, AWS, Vercel, CI/CD
+    Frontend: React.js, Next.js, Angular, Vue.js, TypeScript, Tailwind CSS
+    Backend: Node.js, Express.js, Laravel, NestJS, FastAPI, Django, GraphQL
+    Database: PostgreSQL, MongoDB, MySQL, Redis, Firebase
+    DevOps: Docker, AWS, Kubernetes, Vercel, CI/CD ,Terraform
 
   AI Engineering:
-    Languages: Python, Rust, Golang, Go
+    Languages:JavaScript, Java, Python, PHP, Rust, Golang, Go , .NET
     LLMs & APIs: OpenAI API, Gemini API
     Frameworks: FastAPI, LangChain
     Vector Databases: Pinecone, ChromaDB
